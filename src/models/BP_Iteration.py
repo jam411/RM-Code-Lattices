@@ -10,3 +10,5 @@ def atanh(x, eps=1e-6):
 def damping(msg_prev, msg_new, gamma):
     # Convex combination of new value and value from last iteration
     return (1 - gamma) * msg_prev + gamma * msg_new
+
+## test
