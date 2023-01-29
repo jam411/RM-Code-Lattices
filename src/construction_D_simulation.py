@@ -171,7 +171,7 @@ for i_vnr in range(0,len(vnr_vec)):
 
 #         if run % 10000 == 0:
 #             print("VNR:", vnr_vec[i_vnr]," TRIAL:",num_run[i_vnr]," ERROR:",num_block_err[i_vnr]," WER:",num_block_err[i_vnr] / num_run[i_vnr]," SER:",num_symbol_err[i_vnr] / num_run[i_vnr])
-        # run loop end
+# run loop end
 
     print("VNR:", vnr_vec[i_vnr]," WER:",num_block_err[i_vnr] / num_run[i_vnr]," SER:",num_symbol_err[i_vnr] / num_run[i_vnr])
 
