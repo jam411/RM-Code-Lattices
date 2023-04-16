@@ -12,3 +12,4 @@ def damping(msg_prev, msg_new, gamma):
     return (1 - gamma) * msg_prev + gamma * msg_new
 
 ## test
+## test
