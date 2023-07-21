@@ -11,7 +11,7 @@
 #   3-2. vnr ranges
 #   3-3. runs and err
 # 4. Consider decoders inputs in decoding.
-
+#
 # Import modules
 import sys
 import os
