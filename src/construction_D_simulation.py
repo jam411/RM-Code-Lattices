@@ -13,6 +13,7 @@
 # 4. Consider decoders inputs in decoding.
 #
 #
+#
 # Import modules
 import sys
 import os
